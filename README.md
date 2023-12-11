@@ -1,5 +1,5 @@
 # Gecko-Fuzz
-Automated On-Chain Fuzzing
+A Gecko is a small, mostly carnivorous lizard known for feeding off bugs. Similarly, Gecko Fuzz is a novel autonomous on-chain smart contract auditing tool combining fuzzing and formal verification to find bugs in your code.
 
 
 
