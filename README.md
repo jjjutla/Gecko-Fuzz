@@ -1,5 +1,6 @@
 # Gecko-Fuzz
 A Gecko is a small, mostly carnivorous lizard known for feeding off bugs. Similarly, Gecko Fuzz is a novel autonomous on-chain smart contract auditing tool combining fuzzing and formal verification to find bugs in your code.
+<img width="1394" alt="Screenshot 2023-12-12 at 00 37 32" src="https://github.com/jjjutla/Gecko-Fuzz/assets/22000925/4655d023-4c55-46a4-8024-3f2fe9cf9a72">
 
 ### Links:
 - Technical Documentation: https://drive.google.com/file/d/1MvZgZ2uVl6PklBOI5uvymGcMyeZGNcdy/view?usp=sharing
