@@ -18,6 +18,7 @@ A Gecko is a small, mostly carnivorous lizard known for feeding off bugs. Simila
 ### Links:
 - **Technical Documentation:** https://drive.google.com/file/d/1MvZgZ2uVl6PklBOI5uvymGcMyeZGNcdy/view?usp=sharing
 - **Slides:** https://drive.google.com/file/d/16F0SmAfB1t2qYJqaX60Xid7jAVwp4AQI/view?usp=sharing
-- **Video 1:** https://www.youtube.com/watch?v=rrVjMwuIwxM
-- **Video 2:** https://youtu.be/DRwBQV5938M
+- **3 Min Video**: https://youtu.be/wrQli3qfWBo
+- **Pitch Video :** https://www.youtube.com/watch?v=rrVjMwuIwxM
+- **Technical Video :** https://youtu.be/DRwBQV5938M
 - **Devpost:** https://devpost.com/software/gecko-fuzz
